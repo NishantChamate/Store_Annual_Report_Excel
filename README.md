@@ -3,6 +3,19 @@
 ## Overview
 This project encompasses the full pipeline from data cleaning and processing to data analysis and visualization, culminating in actionable reports.
 
+## Objective
+Store wants to create an annual sales report for 2022. This report aims to help Vrinda understand their customers better and grow more sales in 2023.
+
+## Client Requirements
+- Compare the sales and orders using a single chart.
+- Determine which month had the highest sales and orders.
+- Identify who purchased more in 2022: men or women.
+- Analyze the different order statuses in 2022.
+- List the top 10 states contributing to sales.
+- Examine the relation between age and gender based on the number of purchases.
+- Identify which channel is contributing to maximum sales.
+- Determine the highest selling category.
+
 ## Workflow
 1. **Data Cleaning**
 2. **Data Processing**
